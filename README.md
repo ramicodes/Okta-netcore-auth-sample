@@ -82,10 +82,3 @@ Browse to `http://localhost:60611` to test the application.
 * [ASP.NET Core + Okta authentication quickstart](https://developer.okta.com/quickstart/#/okta-sign-in-page/dotnet/aspnetcore)
 * Use the [Okta .NET SDK](https://github.com/okta/okta-sdk-dotnet) if you need to call [Okta APIs](https://developer.okta.com/docs/api/resources/users) for management tasks
 
-## Help
-
-Please post any questions on the [Okta Developer Forums](https://devforum.okta.com/). You can also email developers@okta.com if you would like to create a support ticket.
-
-## License
-
-Apache 2.0, see [LICENSE](LICENSE).
